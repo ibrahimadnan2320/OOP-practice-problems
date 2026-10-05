@@ -1,0 +1,9 @@
+# Compiled Object files, Executables, and Libraries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Debugging and IDE files
+.vscode/
