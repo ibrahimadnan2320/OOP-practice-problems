@@ -20,13 +20,12 @@ float ar()
 
 int main()
 {
-	int a,b;
+	float a,b;
 	a=rad();
 	cout<<a<<endl;
 	b=ar();
 	cout<<b;
 	
-	
-	
+	return 0;	
 }
 
