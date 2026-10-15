@@ -10,3 +10,4 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`ALI practice.cpp`**: Even and odd number checker using a function with custom return values.
 - **`Untitled1kfkndknf.cpp`**: Compact version of the custom return value even/odd number checker.
 - **`Untitled1.cpp`**: C++ starter boilerplate file.
+- **`Uzair Arslan Class # 1.cpp`**: Practice on for-loops, while-loops, and core C++ conceptual notes.
