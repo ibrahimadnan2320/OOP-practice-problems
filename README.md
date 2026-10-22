@@ -11,3 +11,4 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Untitled1kfkndknf.cpp`**: Compact version of the custom return value even/odd number checker.
 - **`Untitled1.cpp`**: C++ starter boilerplate file.
 - **`Uzair Arslan Class # 1.cpp`**: Practice on for-loops, while-loops, and core C++ conceptual notes.
+- **`OOP Lab Class 2.cpp`**: Introduction to encapsulation, class structure, public/private access specifiers, and getter/setter methods.
