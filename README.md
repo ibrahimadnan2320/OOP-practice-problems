@@ -12,3 +12,5 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Untitled1.cpp`**: C++ starter boilerplate file.
 - **`Uzair Arslan Class # 1.cpp`**: Practice on for-loops, while-loops, and core C++ conceptual notes.
 - **`OOP Lab Class 2.cpp`**: Introduction to encapsulation, class structure, public/private access specifiers, and getter/setter methods.
+- **`Personal Practice # 1 (25-10-26).cpp`**: Multi-class structure (`StudentInfo`, `student_gender`, `exam_marks`) with encapsulation, accessors, and marks validation.
+- **`Personal Practice # 1 (26-10-26).cpp`**: Getter and setter methods implementation for private member encapsulation in an age class.
