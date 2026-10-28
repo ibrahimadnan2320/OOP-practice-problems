@@ -14,3 +14,4 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`OOP Lab Class 2.cpp`**: Introduction to encapsulation, class structure, public/private access specifiers, and getter/setter methods.
 - **`Personal Practice # 1 (25-10-26).cpp`**: Multi-class structure (`StudentInfo`, `student_gender`, `exam_marks`) with encapsulation, accessors, and marks validation.
 - **`Personal Practice # 1 (26-10-26).cpp`**: Getter and setter methods implementation for private member encapsulation in an age class.
+- **`27-10-26 Practice Constructor (Default + Parameterizes).cpp`**: Practice on class member functions, accessor methods, and conceptual notes on constructors and constructor overloading.
