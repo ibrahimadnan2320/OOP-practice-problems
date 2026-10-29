@@ -20,7 +20,7 @@ class student		//class
 	public:
 		void get(string g)
 		{
-			g=gender;
+			gender=g;
 		}
 	
 		string set()
@@ -44,7 +44,10 @@ int main()
 //	cout<<"\nRoll Number : "<<s1.roll_number;
 //	cout<<"\nSection : "<<s1.roll_number;
 //	cout<<"\nGender : "<<s1.gender;
-
+	string bu;
+	cout<<"Enter Your Gender : ";
+	cin>>bu;
+	s1.get(bu);
 	cout<<"Gender = "<<s1.set();
 	return 0;
 }
