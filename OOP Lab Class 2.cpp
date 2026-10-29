@@ -39,15 +39,15 @@ int main()
 	s1.roll_number="F2025266245";
 	s1.section="V1";
 	
-//	cout<<"Name : "<<s1.name; //Output
-//	cout<<"\nFather Name : "<<s1.father_name;
-//	cout<<"\nRoll Number : "<<s1.roll_number;
-//	cout<<"\nSection : "<<s1.roll_number;
-//	cout<<"\nGender : "<<s1.gender;
+	cout<<"Name : "<<s1.name; //Output
+	cout<<"\nFather Name : "<<s1.father_name;
+	cout<<"\nRoll Number : "<<s1.roll_number;
+	cout<<"\nSection : "<<s1.roll_number;
+	
 	string bu;
-	cout<<"Enter Your Gender : ";
+	cout<<"\nEnter Your Gender : ";
 	cin>>bu;
 	s1.get(bu);
-	cout<<"Gender = "<<s1.set();
+	cout<<"\nGender = "<<s1.set();
 	return 0;
 }
