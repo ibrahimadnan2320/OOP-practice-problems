@@ -15,3 +15,5 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Personal Practice # 1 (25-10-26).cpp`**: Multi-class structure (`StudentInfo`, `student_gender`, `exam_marks`) with encapsulation, accessors, and marks validation.
 - **`Personal Practice # 1 (26-10-26).cpp`**: Getter and setter methods implementation for private member encapsulation in an age class.
 - **`27-10-26 Practice Constructor (Default + Parameterizes).cpp`**: Practice on class member functions, accessor methods, and conceptual notes on constructors and constructor overloading.
+- **`question by mam in class.cpp`**: Array of `Student` objects demonstrating default & parameterized constructors, getters/setters, and formatted output.
+- **`uzair bhai 5-11-2026.cpp`**: `phone` class demonstrating default constructor, parameterized constructor, copy constructor, and friend function accessing private members.
