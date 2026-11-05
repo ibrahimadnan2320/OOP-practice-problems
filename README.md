@@ -17,3 +17,7 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`27-10-26 Practice Constructor (Default + Parameterizes).cpp`**: Practice on class member functions, accessor methods, and conceptual notes on constructors and constructor overloading.
 - **`question by mam in class.cpp`**: Array of `Student` objects demonstrating default & parameterized constructors, getters/setters, and formatted output.
 - **`uzair bhai 5-11-2026.cpp`**: `phone` class demonstrating default constructor, parameterized constructor, copy constructor, and friend function accessing private members.
+- **`Personal practice 5-11-26.cpp`**: Real-world API simulation with a `UserAccount` class demonstrating password encapsulation and buffer length validation.
+- **`Question 1.cpp`**: Assignment 1 - `SecuritySystem` class featuring manual char-array string processing, validation for security code length and camera counts, and system status retrieval.
+- **`Question 2.cpp`**: Assignment 1 - `GameCharacter` class demonstrating default constructor, parameterized constructor, and copy constructor in a game context.
+- **`Question 3.cpp`**: Assignment 1 - `SecretAgent` class utilizing a `friend` function `compareAgents` to compute weighted scores and determine mission competition outcomes.
