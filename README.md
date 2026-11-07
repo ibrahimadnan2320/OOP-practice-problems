@@ -21,3 +21,7 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Question 1.cpp`**: Assignment 1 - `SecuritySystem` class featuring manual char-array string processing, validation for security code length and camera counts, and system status retrieval.
 - **`Question 2.cpp`**: Assignment 1 - `GameCharacter` class demonstrating default constructor, parameterized constructor, and copy constructor in a game context.
 - **`Question 3.cpp`**: Assignment 1 - `SecretAgent` class utilizing a `friend` function `compareAgents` to compute weighted scores and determine mission competition outcomes.
+- **`1st quiz pracitce.cpp`**: Array reversal algorithm using pointer parameter (`int* arr`) and pointer arithmetic without index bracket notation.
+- **`program1.cpp`**: Refined solution for Assignment 1 (Q1) - `SecuritySystem` with strictly numeric security-code validation and robust char array handling.
+- **`program 2.cpp`**: Refined solution for Assignment 1 (Q2) - `GameCharacter` implementing default, parameterized, and copy constructors with interactive player input.
+- **`program 3.cpp`**: Refined solution for Assignment 1 (Q3) - `SecretAgent` with dynamic user input and an external `friend` function calculating and comparing total scores.
