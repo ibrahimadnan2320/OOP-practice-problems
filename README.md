@@ -25,3 +25,4 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`program1.cpp`**: Refined solution for Assignment 1 (Q1) - `SecuritySystem` with strictly numeric security-code validation and robust char array handling.
 - **`program 2.cpp`**: Refined solution for Assignment 1 (Q2) - `GameCharacter` implementing default, parameterized, and copy constructors with interactive player input.
 - **`program 3.cpp`**: Refined solution for Assignment 1 (Q3) - `SecretAgent` with dynamic user input and an external `friend` function calculating and comparing total scores.
+- **`quiz oop theory practice.cpp`**: Function (`countFrequency`) to search and count the occurrences of a target element in an integer array.
