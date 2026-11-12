@@ -28,3 +28,4 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`quiz oop theory practice.cpp`**: Function (`countFrequency`) to search and count the occurrences of a target element in an integer array.
 - **`oop lab quiz practice.cpp`**: `session` class constructor practice covering default, parameterized, and copy constructor implementation.
 - **`oop lab quiz practice 2.cpp`**: Implementation of a `friend` function modifying and printing private class members of a `male` class object.
+- **`class uzair bhai 12-11-2026.cpp`**: In-class lab exercise demonstrating arrays as data members within a class and arrays of objects with nested traversal.
