@@ -29,3 +29,10 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`oop lab quiz practice.cpp`**: `session` class constructor practice covering default, parameterized, and copy constructor implementation.
 - **`oop lab quiz practice 2.cpp`**: Implementation of a `friend` function modifying and printing private class members of a `male` class object.
 - **`class uzair bhai 12-11-2026.cpp`**: In-class lab exercise demonstrating arrays as data members within a class and arrays of objects with nested traversal.
+- **`testing assignment 1 oop theory.cpp`**: Interactive address book application with nested structures, CRUD operations, and contact search functionality.
+- **`dfghjhgfc.cpp`**: Personal phone book manager implementing person and address structures with insert, modify, delete, and search.
+- **`Program#1.cpp`**: Smart mall parking system tracking dynamically managed parking space occupancy and vehicle registration IDs.
+- **`Program#2.cpp`**: Educational platform result management system recording and displaying student examination marks.
+- **`Program#3.cpp`**: Patient medical examination records tracking multiple health measurements per patient object.
+- **`Program#4.cpp`**: Course lecture attendance tracker maintaining multi-lecture attendance status per student object.
+- **`Program#5.cpp`**: Inter-university sports tournament score tracker managing player scores across participating team objects.
