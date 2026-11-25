@@ -42,6 +42,12 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Program_4.cpp`**: Distance measurement class managing feet and inches with an `addDistances()` member function.
 - **`Program_5.cpp`**: Student grade calculator managing 8 student records and computing 3-subject averages.
 - **`hjvgfdxdgchj.cpp`**: Product class showcasing private price encapsulation accessed via a friend function `printPrice()`.
-- **`oop lab mid exam practice.cpp`**: Mid-term lab exam practice implementing friend functions and class accessors.
+- **`oop lab mid exam practice.cpp`**: Mid-term lab exam practice implementing soldier salary calculations and friend functions.
 - **`OOP lab Mid Prep.cpp`**: Comprehensive OOP mid-term exam preparation featuring CricketPlayer class and a friend function `comparePlayers()` to determine match results.
 - **`Untitled3.cpp`**: Empty C++ starter file.
+- **`uytfddfghjhg.cpp`**: Student class encapsulation practice with setter and getter for private gender member.
+- **`oop_lab_quiz_problrm.cpp`**: Soldier class implementation with friend function `cal_per()` calculating failed missions, bonus, and total salary.
+- **`ytfgfhg.cpp`**: MovieTicket class demonstrating default, parameterized, and copy constructor auto-incrementing seat numbers.
+- **`asdfasfsadf.cpp`**: Student class featuring an array of 5 subject marks as data members, with record input and display across multiple objects.
+- **`oiuytfd.cpp`**: Student class managing an array of 5 names with a member input function and a friend display function.
+- **`iuytresfdgh.cpp`**: Phone class encapsulation practice with a friend function accessing private price and model.
