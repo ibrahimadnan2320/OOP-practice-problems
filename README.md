@@ -36,3 +36,12 @@ A collection of Object-Oriented Programming (OOP) practice programs and exercise
 - **`Program#3.cpp`**: Patient medical examination records tracking multiple health measurements per patient object.
 - **`Program#4.cpp`**: Course lecture attendance tracker maintaining multi-lecture attendance status per student object.
 - **`Program#5.cpp`**: Inter-university sports tournament score tracker managing player scores across participating team objects.
+- **`Program_1.cpp`**: Car class implementation demonstrating default and copy constructors with model number tracking.
+- **`Program_2.cpp`**: Employee management system managing an array of 6 employee objects with codes and names.
+- **`Program_3.cpp`**: Complex number class featuring default & parameterized constructors and a friend function `add()` for complex addition.
+- **`Program_4.cpp`**: Distance measurement class managing feet and inches with an `addDistances()` member function.
+- **`Program_5.cpp`**: Student grade calculator managing 8 student records and computing 3-subject averages.
+- **`hjvgfdxdgchj.cpp`**: Product class showcasing private price encapsulation accessed via a friend function `printPrice()`.
+- **`oop lab mid exam practice.cpp`**: Mid-term lab exam practice implementing friend functions and class accessors.
+- **`OOP lab Mid Prep.cpp`**: Comprehensive OOP mid-term exam preparation featuring CricketPlayer class and a friend function `comparePlayers()` to determine match results.
+- **`Untitled3.cpp`**: Empty C++ starter file.
